@@ -52,6 +52,6 @@ class FileStorage:
 
     def delete(self, obj=None):
         if obj is not None:
-             
+            #implementation
             self.save()
         pass
